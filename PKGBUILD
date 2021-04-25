@@ -47,7 +47,7 @@ depends=(
 	python-rospkg
 	boost1.69
 	python-gnupg
-	python-crypto
+	python-pycryptodomex
 )
 
 _dir="ros_comm-${pkgver}/tools/rosbag"
